@@ -1,0 +1,49 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+#home {
+	background: url(img/bg1.jpg) no-repeat center center fixed;
+	display: table;
+	height: 100%;
+	position: relative;
+	width:100%;
+	background-size: cover;
+}
+
+.landing-text{
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+
+}
+
+.landing-text h1 {
+	color: #FFF;
+	font-family: 'Lato', sans-serif;
+	padding-bottom: 15%;
+	
+	}
+
+.landing-text .btn {
+	background-color: #ff5c33;
+	border-color: #ff5c33;
+	color: #FFF;
+}
+.landing-text .btn:hover {
+	background-color: #ff8566;
+	border-color: #ff8566;
+
+}
+
+hr {
+	width:4%;
+	height: 1px;
+	background-color: #ff5c33;
+	border: none;
+	padding: 1px;
+
+}
+
+
