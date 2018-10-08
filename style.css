@@ -30,6 +30,7 @@ html, body {
 	background-color: #ff5c33;
 	border-color: #ff5c33;
 	color: #FFF;
+	text-align: center;
 }
 .landing-text .btn:hover {
 	background-color: #ff8566;
@@ -43,7 +44,6 @@ hr {
 	background-color: #ff5c33;
 	border: none;
 	padding: 1px;
-
 }
 
 
